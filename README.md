@@ -5,7 +5,9 @@ The project involves data preprocessing, model training, evaluation, and deploym
 
 ## Repository Structure
 ├── code/ # Folder containing code for model implementation and web developmeny
+
         ├──Data # Folder containing dataset
+        
 ├── notebooks/ # Jupyter notebook with EDA, preprocessing, and model training
 ├── Doc # .pdf format of code for model implementation
 ├── docker-compose.yaml
